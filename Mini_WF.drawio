@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="iNh84Y6Klk_ePbV0etU_">
-    <mxGraphModel dx="421" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,15 @@
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Welcome, &lt;i&gt;username&lt;/i&gt;!" vertex="1">
           <mxGeometry height="30" width="130" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;My Schedule&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="525" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Online Resources&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="525" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Contact Doctor&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="525" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
