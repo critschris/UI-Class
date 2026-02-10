@@ -55,7 +55,7 @@
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terms of Service" vertex="1">
           <mxGeometry height="30" width="90" x="120" y="1055" as="geometry" />
         </mxCell>
-        <mxCell id="bvLRwaMfRP-nyrdDaCPx-19" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-7" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="bvLRwaMfRP-nyrdDaCPx-8" value="">
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-19" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-7" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="bvLRwaMfRP-nyrdDaCPx-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="210" y="560" as="sourcePoint" />
             <mxPoint x="260" y="510" as="targetPoint" />
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Username" vertex="1">
           <mxGeometry height="30" width="160" x="390" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-32" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-14" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="bvLRwaMfRP-nyrdDaCPx-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="980" as="sourcePoint" />
+            <mxPoint x="330" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
