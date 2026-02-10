@@ -133,6 +133,15 @@
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Contact Doctor&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="525" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-57" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-36" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" target="bvLRwaMfRP-nyrdDaCPx-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="770" />
+            </Array>
+            <mxPoint x="960" y="800" as="sourcePoint" />
+            <mxPoint x="720" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
