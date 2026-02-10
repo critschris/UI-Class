@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="iNh84Y6Klk_ePbV0etU_">
-    <mxGraphModel dx="1384" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="421" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,13 +113,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-49" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="530" y="190" as="geometry" />
+          <mxGeometry height="60" width="60" x="590" y="200" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-43" parent="bvLRwaMfRP-nyrdDaCPx-49" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="50" width="50" as="geometry" />
+          <mxGeometry height="60" width="60" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-48" parent="bvLRwaMfRP-nyrdDaCPx-49" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="30" x="10" y="5" as="geometry" />
+          <mxGeometry height="48" width="36" x="12" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Welcome, &lt;i&gt;username&lt;/i&gt;!" vertex="1">
+          <mxGeometry height="30" width="130" x="560" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
