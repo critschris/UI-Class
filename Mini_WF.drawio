@@ -7,7 +7,7 @@
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="480" width="240" x="40" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bvLRwaMfRP-nyrdDaCPx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Username" vertex="1">
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Email" vertex="1">
           <mxGeometry height="30" width="160" x="80" y="360" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Log In&lt;/font&gt;" vertex="1">
@@ -29,22 +29,67 @@
           <mxGeometry height="480" width="240" x="40" y="710" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Username" vertex="1">
-          <mxGeometry height="30" width="160" x="80" y="910" as="geometry" />
+          <mxGeometry height="30" width="160" x="80" y="890" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sign up&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="850" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Password" vertex="1">
-          <mxGeometry height="30" width="160" x="80" y="950" as="geometry" />
+          <mxGeometry height="30" width="160" x="80" y="970" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Logo" vertex="1">
           <mxGeometry height="80" width="80" x="120" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="bvLRwaMfRP-nyrdDaCPx-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Log in&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="150" x="85" y="1050" as="geometry" />
-        </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sign up&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="85" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Email" vertex="1">
+          <mxGeometry height="30" width="160" x="80" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Confirm Password" vertex="1">
+          <mxGeometry height="30" width="160" x="80" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="90" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terms of Service" vertex="1">
+          <mxGeometry height="30" width="90" x="120" y="1055" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-19" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-7" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="bvLRwaMfRP-nyrdDaCPx-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="560" as="sourcePoint" />
+            <mxPoint x="260" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="480" width="240" x="350" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Username" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Set up Two-Factor&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Authentication&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Password" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Logo" vertex="1">
+          <mxGeometry height="80" width="80" x="430" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sign up&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="395" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Username" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Password" vertex="1">
+          <mxGeometry height="30" width="160" x="390" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="400" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terms of Service" vertex="1">
+          <mxGeometry height="30" width="90" x="430" y="1055" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
