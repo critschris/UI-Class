@@ -106,14 +106,20 @@
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="480" width="240" x="500" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bvLRwaMfRP-nyrdDaCPx-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="520" y="190" as="geometry" />
-        </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-46" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="bvLRwaMfRP-nyrdDaCPx-39" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="640" y="570" as="sourcePoint" />
             <mxPoint x="690" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-49" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="530" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-43" parent="bvLRwaMfRP-nyrdDaCPx-49" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-48" parent="bvLRwaMfRP-nyrdDaCPx-49" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="30" x="10" y="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
