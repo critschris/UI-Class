@@ -106,8 +106,8 @@
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="480" width="240" x="500" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bvLRwaMfRP-nyrdDaCPx-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Logo" vertex="1">
-          <mxGeometry height="80" width="80" x="580" y="200" as="geometry" />
+        <mxCell id="bvLRwaMfRP-nyrdDaCPx-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="520" y="190" as="geometry" />
         </mxCell>
         <mxCell id="bvLRwaMfRP-nyrdDaCPx-46" edge="1" parent="1" source="bvLRwaMfRP-nyrdDaCPx-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="bvLRwaMfRP-nyrdDaCPx-39" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
