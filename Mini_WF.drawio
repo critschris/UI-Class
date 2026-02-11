@@ -332,10 +332,13 @@
           <mxGeometry height="140" width="160" x="980" y="940" as="geometry" />
         </mxCell>
         <mxCell id="Iyan_4978p0-FgZ_acYQ-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="30" width="160" x="1010" y="1140" as="geometry" />
+          <mxGeometry height="30" width="160" x="1000" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="Iyan_4978p0-FgZ_acYQ-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" value="&lt;span&gt;&amp;lt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="980" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-93" parent="1" style="shape=mxgraph.signs.tech.telephone_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=315;" value="" vertex="1">
+          <mxGeometry height="40" width="22" x="1170" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
