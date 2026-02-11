@@ -202,11 +202,14 @@
             <mxPoint x="1210" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyan_4978p0-FgZ_acYQ-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="100" width="200" x="990" y="260" as="geometry" />
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="990" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="Iyan_4978p0-FgZ_acYQ-30" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" value="" vertex="1">
-          <mxGeometry height="30" width="29.4" x="1150.3" y="270" as="geometry" />
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-29" parent="Iyan_4978p0-FgZ_acYQ-31" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-30" parent="Iyan_4978p0-FgZ_acYQ-31" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" value="" vertex="1">
+          <mxGeometry height="30" width="29.4" x="160.29999999999995" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
