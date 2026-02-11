@@ -319,6 +319,9 @@
             <mxPoint x="1210" y="789.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Assigned Doctor&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1025" y="740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
