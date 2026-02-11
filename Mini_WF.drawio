@@ -322,6 +322,21 @@
         <mxCell id="Iyan_4978p0-FgZ_acYQ-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Assigned Doctor&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="1025" y="740" as="geometry" />
         </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="980" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="80" width="160" x="1040" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="140" width="160" x="980" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="1010" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" value="&lt;span&gt;&amp;lt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="980" y="740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
