@@ -238,7 +238,7 @@
         <mxCell id="Iyan_4978p0-FgZ_acYQ-64" parent="Iyan_4978p0-FgZ_acYQ-100" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="30" y="235" as="geometry" />
         </mxCell>
-        <mxCell id="Iyan_4978p0-FgZ_acYQ-65" parent="Iyan_4978p0-FgZ_acYQ-100" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Recurring&lt;/font&gt;" vertex="1">
+        <mxCell id="Iyan_4978p0-FgZ_acYQ-65" parent="Iyan_4978p0-FgZ_acYQ-100" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Reoccurring&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="60" y="230" as="geometry" />
         </mxCell>
         <mxCell id="Iyan_4978p0-FgZ_acYQ-66" parent="Iyan_4978p0-FgZ_acYQ-100" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DFDFDF;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wed&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -374,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EcncMTPbY31f8ZK8j0et-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="170" x="970" y="740" as="geometry" />
+          <mxGeometry height="30" width="150" x="990" y="740" as="geometry" />
         </mxCell>
         <mxCell id="EcncMTPbY31f8ZK8j0et-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="160" width="240" x="955" y="810" as="geometry" />
@@ -396,6 +396,9 @@
         </mxCell>
         <mxCell id="EcncMTPbY31f8ZK8j0et-6" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1150" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="sC-iualJyE3IX0IOpe11-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" value="&lt;span&gt;&amp;lt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="30" x="960" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
