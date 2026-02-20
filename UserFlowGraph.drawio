@@ -84,6 +84,9 @@
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-44" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZCtBfKXeIa-sUiB1Q3oT-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-55" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZCtBfKXeIa-sUiB1Q3oT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Main navigation page" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="410" as="geometry" />
         </mxCell>
@@ -129,9 +132,6 @@
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reminders page: users set reminders on the app" vertex="1">
           <mxGeometry height="60" width="120" x="820" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UI Button" vertex="1">
-          <mxGeometry height="30" width="60" x="780" y="310" as="geometry" />
-        </mxCell>
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="New reminder" vertex="1">
           <mxGeometry height="30" width="60" x="950" y="190" as="geometry" />
         </mxCell>
@@ -148,6 +148,15 @@
         </mxCell>
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Confirm/Cancel" vertex="1">
           <mxGeometry height="30" width="60" x="950" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-54" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ZCtBfKXeIa-sUiB1Q3oT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sources page: Users search up about their condition from our database" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UI Button" vertex="1">
+          <mxGeometry height="30" width="60" x="780" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
