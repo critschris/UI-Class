@@ -16,8 +16,28 @@
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login/ Register page" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-6" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="440" />
+            </Array>
+            <mxPoint x="350" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Does user have an account?" vertex="1">
-          <mxGeometry height="120" width="120" x="120" y="410" as="geometry" />
+          <mxGeometry height="120" width="120" x="120" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-11" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
