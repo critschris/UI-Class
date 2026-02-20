@@ -97,6 +97,9 @@
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Password reset: user attempts to change password" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-40" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZCtBfKXeIa-sUiB1Q3oT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Confirmation through email code" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="160" as="geometry" />
         </mxCell>
@@ -105,6 +108,12 @@
             <mxPoint x="510" y="450" as="sourcePoint" />
             <mxPoint x="510" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-41" edge="1" parent="1" source="ZCtBfKXeIa-sUiB1Q3oT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZCtBfKXeIa-sUiB1Q3oT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCtBfKXeIa-sUiB1Q3oT-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Change password" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
